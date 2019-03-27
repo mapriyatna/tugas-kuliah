@@ -1,5 +1,5 @@
 #include <iostream>
-main()
+int main()
 {
 int nilai;
 cout << " Masukan Nilai Angka : "; cin >> nilai;
